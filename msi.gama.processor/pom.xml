@@ -116,7 +116,7 @@
 			<plugin>
 				<groupId>org.eclipse.tycho</groupId>
 				<artifactId>tycho-compiler-plugin</artifactId>
-				<version>0.25.0</version>
+				<version>1.7.0</version>
 				<configuration>
 					<source>1.8</source>
 					<target>1.8</target>
@@ -127,7 +127,7 @@
 			<plugin>
 				<groupId>org.eclipse.tycho</groupId>
 				<artifactId>tycho-maven-plugin</artifactId>
-				<version>0.25.0</version>
+				<version>1.7.0</version>
 				<extensions>true</extensions>
 				<configuration>
 					<source>1.8</source>
@@ -139,7 +139,7 @@
 			<plugin>
 				<groupId>org.eclipse.tycho</groupId>
 				<artifactId>target-platform-configuration</artifactId>
-				<version>0.25.0</version>
+				<version>1.7.0</version>
 				<configuration>
 					<filters>
 						<filter>
